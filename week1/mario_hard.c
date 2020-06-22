@@ -1,4 +1,5 @@
 #include <cs50.h>
+#include <stdio.h>
 
 void hash(int s);
 void space(int s);
