@@ -11,6 +11,7 @@ int main(void){
     for(int i=0;i<=height;i++){
         space(n2);
         hash(n1);
+        printf("\n");
         n1++;
         n2--;
     }
